@@ -1,0 +1,12 @@
+{
+  "name": "oem-ctiti-buffer-gateway",
+  "version": "1.0.0",
+  "description": "Custom high-concurrency delay proxy for S2S OEM clicks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
